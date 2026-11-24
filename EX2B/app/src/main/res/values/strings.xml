@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CSAIDLClient</string>
+    <string name="heading_title">AIDL Client Application</string>
+    <string name="status_label">Status: </string>
+    <string name="button_change_color">CHANGE COLOR</string>
+    <string name="status_connected">Service Connected</string>
+    <string name="status_disconnected">Service Disconnected</string>
+</resources>
